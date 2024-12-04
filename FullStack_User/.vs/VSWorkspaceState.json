@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\.mvn",
+    "\\.mvn\\wrapper",
+    "\\bin",
+    "\\bin\\src",
+    "\\bin\\src\\main"
+  ],
+  "PreviewInSolutionExplorer": false
+}
